@@ -10,6 +10,7 @@ This is my final project for Puerto Rico
 ![](puert_bplt.png)
 
 ## POPULTION DENSITY OF PUERTO RICO
+![](Rplot.pdf)
 ![](Rplot02.png)
 ![](pop_sum.png)
 ![](diff_mean3d.png)
@@ -17,3 +18,5 @@ This is my final project for Puerto Rico
 ## PUERTO RICO'S TOPOGRAPHY AND ELEVATION
 ![](puert_map_contour.png.pdf)
 
+## MAP VIEW OF SAN JUAN, PUERTO RICO
+![](MapView.png)
