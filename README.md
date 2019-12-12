@@ -3,7 +3,7 @@
 This is my final project for Puerto Rico
 
 ## ADMINISTRATIVE SUBDIVISIONS OF PUERTO RICO
-![](Rplot7.png)
+![](Rplot07.png)
 
 ## POPULATION OF PUERTO RICO'S MUNICIPALITIES
 ![](puert_pop19.png)
