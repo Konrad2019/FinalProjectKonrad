@@ -8,17 +8,18 @@ This is my final project for Puerto Rico
 ![](Caguas_Zoom.pdf)
 
 ## POPULATION OF PUERTO RICO'S MUNICIPALITIES
+### The population of Puerto Rico is three million and is greatly affected by the topography. Puerto Rico is very mountainous in its southern regions, resulting in the most populous areas to be located towards the north. 
+![](puert_map_contour.png.pdf)
+#### This plot demonstrates the mountainous regions in the southern regions of Puerto Rico
+![](puert_map_contour.png.pdf)
 ![](puert_pop19.png)
+### Of Puerto Rico's municipalities, San Juan is the most populated. This is expected because San Juan, the capital of Puerto Rico is located in the municipality. San Juan is by far the most densely populated municipality in Puerto Rico, with Bayamón, the second most dense municipality, a little more than half as densely populated.
 ![](puert_bplt.png)
-
-## POPULTION DENSITY OF PUERTO RICO
+### Puerto Rico's population mostly lives in towns and villages across rural areas. A dense population lives in large cities like San Juan and Caguas, but the population is smaller compared to the Puerto Ricans living in smaller towns. 
 ![](Rplot.pdf)
 ![](Rplot02.png)
 ![](pop_sum.png)
 ![](diff_mean3d.png)
-
-## PUERTO RICO'S TOPOGRAPHY AND ELEVATION
-![](puert_map_contour.png.pdf)
 
 ## MAP VIEW OF SAN JUAN, PUERTO RICO
 ![](MapView.png)
