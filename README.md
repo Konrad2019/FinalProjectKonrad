@@ -26,8 +26,16 @@ This is my final project for Puerto Rico
 ![](CaguasProj4.png)
 
 |Municipality|Caguas|
-|:----------:|:---:|
+|:----------:|:----:|
+|Total Population|144,779|
+|Urban Areas|6|
+|Total Roadway Networks|9 Primary Roads|
+|Total Health Care Facilities|7 Hospitals, 3 Clinics|
+|Level of Service|Higher level of service in the south compared to the north|
 
+
+
+|
 
 
 
