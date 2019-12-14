@@ -25,7 +25,7 @@ This is my final project for Puerto Rico
 ### The roads and hospitals are located in less mountainous areas due to the difficulty of building infrastructure in uneven surfaces and higher elevation.Producing my three-dimensional map resulted in a better understanding of the population in Caguas, Puerto Rico. I was able to interpret the southern urban population as a large area yet not very dense due to the mountainous terrain in most of the region. The northern urban populations have a much smaller area yet they are much more dense due to the low elevation. Infrastructure is much more easily built in the northern areas of Caguas, making cities more abundant and population denser. 
 ![](CaguasProj4.png)
 
-|Municipality|Caguas|
+||Caguas, Puerto Rico|
 |:----------:|:----:|
 |Total Population|144,779|
 |Urban Areas|6|
@@ -34,8 +34,6 @@ This is my final project for Puerto Rico
 |Level of Service|Higher level of service in the south compared to the north|
 
 
-
-|
 
 
 
