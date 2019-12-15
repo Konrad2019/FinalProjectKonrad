@@ -9,11 +9,15 @@ This is my final project for Puerto Rico
 
 ## POPULATION OF MUNICIPALITIES
 ### The population of Puerto Rico is three million and is greatly affected by the topography. Puerto Rico is very mountainous in its southern and central regions, resulting in the most populous areas to be located towards the north. 
+
 ![](puert_map_contour.png.pdf)
+
 ### Of Puerto Rico's municipalities, San Juan is the most populated. This is expected because San Juan, the capital of Puerto Rico is located in the municipality. San Juan is by far the most densely populated municipality in Puerto Rico, with Bayamón, the second most dense municipality, a little more than half as densely populated.
 ![](puert_pop19.png)
 ![](puert_bplt.png)
+
 ### Puerto Rico's population mostly lives in towns and villages across rural areas. A dense population lives in large cities like San Juan and Caguas, but the population is smaller compared to the Puerto Ricans living in smaller towns. 
+
 ![](Rplot.pdf)
 ![](Rplot02.png)
 ![](pop_sum.png)
@@ -21,10 +25,16 @@ This is my final project for Puerto Rico
 
 ## HUMAN SETTLEMENTS, ROADWAYS, AND HEALTHCARE FACILITIES 
 ### Caguas’ topography consists of mountainous regions, which determine the location of facilities in the municipality. The development of urban populations has been impacted by the topography because the larger populated area in the south is built up of smaller communities and not as connected as the populated urban area in the north due to the challenge of building infrastructure in mountainous regions.
+
 ![](Proj3_p2.png)
+
 ### The roads and hospitals are located in less mountainous areas due to the difficulty of building infrastructure in uneven surfaces and higher elevation.Producing my three-dimensional map resulted in a better understanding of the population in Caguas, Puerto Rico. I was able to interpret the southern urban population as a large area yet not very dense due to the mountainous terrain in most of the region. The northern urban populations have a much smaller area yet they are much more dense due to the low elevation. Infrastructure is much more easily built in the northern areas of Caguas, making cities more abundant and population denser. 
+
 ![](CaguasProj4.png)
+
 ### The level of service in Caguas, Puerto Rico is decent. The southern population has a higher level of service because they are connected with roads that go towards the healthcare facilities. The northern population has a lower level of service in the municipality of Caguas due to the lack of roads and the mountains blocking them from the healthcare facilities; however, the population in the north tends not to use the healthcare facilities in the south, instead they use the facilities in the municipality of San Juan and Aguas Buenas. 
+
+
 ||Caguas, Puerto Rico|
 |:----------:|:----:|
 |Total Population|144,779|
@@ -32,6 +42,7 @@ This is my final project for Puerto Rico
 |Total Roadway Networks|9 Primary Roads|
 |Total Health Care Facilities|7 Hospitals, 3 Clinics|
 |Level of Service|Higher level of service in the south compared to the north|
+
 
 ### In conclusion, the human development in Puerto Rico ranges from densely populated cities, like San Juan and Caguas, to scarcely populated small towns in the rural regions. Due to the large impact of mountains, the majority of the population in Puerto Rico lives in small towns in rural areas. This observation is demonstrated in the municipality of Cagaus. Most of the population in Caguas lives in two main areas, one in the north and one in the south. The regions are separated by mountains that block roads and means of transportation. The southern population has a large area and is located in a more rural area. The northern population is much smaller and located in the urban city of Caguas. The population in the south is much greater than the population in the north.
 
