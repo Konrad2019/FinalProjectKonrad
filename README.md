@@ -19,9 +19,9 @@ This is my final project for Puerto Rico
 
 ### Puerto Rico's population mostly lives in towns and villages across rural areas. A dense population lives in large cities like San Juan and Caguas, but the population is smaller compared to the Puerto Ricans living in smaller towns. 
 
-#### I used data taken from satellite images to determine the population density of Puerto Rico
+#### I used data taken from satellite images to determine the different population densities of Puerto Rico
 ![](Rplot.pdf)
-#### I also used the satellite data to determine the correspondence between night time lights(ntl) and the population in Puerto Rico
+#### I also used the satellite data to determine the correspondence between night time lights (ntl) and the population in Puerto Rico
 ![](puert_pop19_graph.png)
 ### The follow plots are my population plots using my mean data of Puerto Rico. These were my most accurate plots. I was able to tell which of my models was the most accurate due to the magnitude of error of each one. My model produced by my mean data had the smallest magnitude of error with 4458076. My model produced by my logpop data was the second most accurate with 4458910, and my sum data was the least accurate with 33632241. I had trouble with my data initially because I was getting the same return for all of my data sets. I switched commands from `bind_cols` to `merge` which allowed me to differentiate my data. 
 ![](Rplot02.png)
@@ -37,7 +37,7 @@ This is my final project for Puerto Rico
 
 ![](CaguasProj4.png)
 
-### The level of service in Caguas, Puerto Rico is decent. The southern population has a higher level of service because they are connected with roads that go towards the healthcare facilities. The northern population has a lower level of service in the municipality of Caguas due to the lack of roads and the mountains blocking them from the healthcare facilities; however, the population in the north tends not to use the healthcare facilities in the south, instead they use the facilities in the municipality of San Juan and Aguas Buenas. 
+### The level of service in Caguas, Puerto Rico is, at best, decent. The southern population has a higher level of service because they are connected with roads that go towards the healthcare facilities. The northern population has a lower level of service in the municipality of Caguas due to the lack of roads and the mountains blocking them from the healthcare facilities; however, the population in the north tends not to use the healthcare facilities in the south, instead they use the facilities in the municipality of San Juan and Aguas Buenas. 
 
 
 ||Caguas, Puerto Rico|
